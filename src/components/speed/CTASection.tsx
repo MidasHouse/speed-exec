@@ -65,7 +65,7 @@ export function CTASection() {
       <CalModal 
         isOpen={isCalOpen} 
         onClose={() => setIsCalOpen(false)}
-        calLink="speed-exec/sales-exec" // Replace with your Cal.com link
+        calLink="midashouse/sales-exec" // Replace with your Cal.com link
       />
     </section>
   )
