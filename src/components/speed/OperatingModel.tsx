@@ -8,7 +8,7 @@ const principles = [
   'Performance-only engagement',
   'No retainers',
   'No fixed costs',
-  'No guaranteed payouts',
+  'Incentivised structure',
 ]
 
 export function OperatingModel() {
